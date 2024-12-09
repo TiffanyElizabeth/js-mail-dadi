@@ -10,4 +10,10 @@ NON POTETE UTILIZZARE NESSUN METODO COME:
 - search
 - ecc... */
 
-// 1. 
+// 1. crea una lista con le email che possono accedere
+
+// 2. prompt: chiede all'utente la sua email
+
+// 3. controlla se la email inserita è presente nella lista (loop)
+
+// 4. informa l'utente se può accedere 
